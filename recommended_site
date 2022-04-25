@@ -1,0 +1,128 @@
+[웹 해킹]
+
+-난이도 하-
+
+1. webhacking.kr
+ - 가장 유명한 워게임. 난이도 분포 좋음
+ 
+2. suninatas.com
+ - webhacking.kr 보다 쉬움
+ 
+ 3. www.hackthissite.org
+  - 해외에서 유명. 풀이도 많음
+  
+ 4. www.hacker.org
+  - 플레쉬 게임 형식의 워게임
+  
+ 5. tools.web-max.ca/encode_decode.php
+  - 워게임 풀 때 자주 이용되는 사이트.
+  url, base64, base85등 인코딩, 디코딩 사이트
+  웹 문제 뿐만 아니라 crypto 문제가 나올 때 자주 이용
+  
+ - 난이도 중-
+ 
+ 1. totoriver.egloos.com/3403564
+  - 웹 해킹 관련 글 많은 블로그
+  
+ 2. lael.be/84
+  - 웹 해킹에서 가장 많이 사용되는 sql 인젝션에 관한 설명 글
+  공격 쿼리가 어떻게, 왜 작성되는지에 대한 정보
+  
+ 3. lael.be/attachment/1109936462.pdf
+  - 기초적인 DB의 구조 부터 인젝션 쿼리를 어떻게 만들 수 있는지에 대한 문서.
+  sql 인젝션에 대해 잘 모르는 사람은 먼저 읽어보는 것 추천
+  
+ 4. Blind Sql Injection - MySQL 5.0
+  - sql 인젝션 중 하나인 블라인드 인젝션 설명문
+  
+ 5. k1rha.tistory.com
+  - 공격 쿼리가 제대로 작동하는지 확인
+  
+ 6. coffeenix.net/data_repository/pdf/googledork.pdf
+  - 구글 해킹에 대한 설명문.
+  검색 엔진인 구글을 통해 어떻게 해킹 할 수 있는지 설명. 주로 웹 해킹의 타겟을 찾을 때 사용.
+  
+  
+ ------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+> www.diano.kr
+ - 국내 보안공부 커뮤니티/ 여러 유틸리티, 해킹 툴 및 강좌 제공
+ 
+> securityxploded.com/download.php
+ - 해킹 관련 툴 다운로드 받을 수 있음(해외)
+ 
+> checkdnskr.appspot.com/?domain=tistory.com
+ - 국내 도메인(DNS) 검색 사이트
+ 
+> www.yougetsignal.com/tools/open-ports
+ - 특정 IP포트 개방 확인 사이트
+ 
+> boannews.com/media/view.asp?idx=47259
+ - 안드로이드보안기사
+ 
+> www.hacoder.com
+ - 해커사이트라 불리는 곳(해외)
+ 
+> www.clipconverter.cc
+> savevideo.me/kr
+ - 동영상 추출 사이트
+ 
+> goo.gl
+ - 구글 URL 단축 서비스
+ 
+> ktword.co.kr
+ - IT관련 용어 검색 사이트
+ 
+> www.hipenpal.com/tool/base64_encode_and_decode_in_korean.php
+ - Base64 인코딩/디코딩 사이트
+ 
+ 
+.........................................................................................................................
+
+
+> www.kali.org/news/kali-linux-2release-day-scheduled
+ - 칼리2.0 해킹 시연
+ 
+> lureout.tistory.com
+ - 백트랙/칼리
+ 
+> crystalcube.co.kr/165
+ - 리눅스 검색엔진 설치
+ 
+
+.........................................................................................................................
+
+
+> blog.naver.com/sjaksdmf521/22263554400 
+> insert57.tistory.com
+ - 웹해킹 공부
+ 
+> pixlr.com/editor
+ - 웹 포토샵
+ 
+
+.........................................................................................................................
+
+
+> ngee.tistory.com/263
+ - 파이썬 공부 관련 사이트 모음
+ 
+> codecademy.com/en/tracks/python-ko
+ - 파이썬 코드아카데미
+ 
+> sacstory.tistory.com
+ - 리눅스, 프로그래밍 등
+ 
+> compileonline.com
+ - 웹페이지 상에서 프로그래밍 언어 컴파일 & 실행 가능 사이트
+ 
+
+.........................................................................................................................
+
+
+> intumyself.tistory.com
+ - 악성코드 분석
+ 
+> www.virustotal.com/ko
+ - 악성코드 검사 사이트
